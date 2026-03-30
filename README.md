@@ -1,4 +1,4 @@
-🍔 Sistema de Gerenciamento - Hamburgueria
+#🍔 Sistema de Gerenciamento - Hamburgueria
 
 Este é um projeto em Python desenvolvido para simular o funcionamento de uma hamburgueria, permitindo ao usuário interagir com um sistema de pedidos.
 
