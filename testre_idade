@@ -1,1 +1,19 @@
+'''
+  
 
+'''
+
+print('digite a idade do jovem: ')
+      
+
+idade = int(input())
+
+if idade < 18:
+         print(' o jovem é menor de idade.')
+
+elif idade <= 65:
+        print(' o jovem é alduto, e maior de idade.')
+               
+
+else:
+        print('0 jovem é maior de idade.')
